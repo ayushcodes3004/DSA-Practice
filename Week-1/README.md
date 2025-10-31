@@ -1,0 +1,1 @@
+Recursion, Backtracking, Greedy Algorithm and Dynamic Programming.
