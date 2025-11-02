@@ -1,6 +1,6 @@
 class Solution {
 private:
-    void solve(vector<int>& arr, int target,vector<int>res,int i,vector<vector<int>>& ans){
+    void solve(vector<int>& arr, int target,vector<int>& res,int i,vector<vector<int>>& ans){
         int n=arr.size();
         if(i==n){
             if(target==0)   ans.push_back(res);
